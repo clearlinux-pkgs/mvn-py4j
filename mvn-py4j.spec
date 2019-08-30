@@ -4,7 +4,7 @@
 #
 Name     : mvn-py4j
 Version  : 0.10.7
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/net/sf/py4j/py4j/0.10.7/py4j-0.10.7.jar
 Source0  : https://repo1.maven.org/maven2/net/sf/py4j/py4j/0.10.7/py4j-0.10.7.jar
 Source1  : https://repo1.maven.org/maven2/net/sf/py4j/py4j/0.10.7/py4j-0.10.7.pom
